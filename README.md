@@ -9,7 +9,7 @@
 
 
 # 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kontil-%8FF421F6.svg?style=for-the-badge&logo=kotlin&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kontil-%8FF421F6.svg?style=for-the-badge&logo=kotlin&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=aksara_jawa&logoColor=%23F7DF1E)
 
 
 # 📊 GitHub Stats:
