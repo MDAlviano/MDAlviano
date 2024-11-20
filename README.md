@@ -9,7 +9,7 @@
 
 
 # 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%8FF421F6.svg?style=for-the-badge&logo=kotlin&logoColor=black) ![JavaScript](https://img.shields.io/badge/aksara_jawa-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/bahasa_k-%23F901FF.svg?style=for-the-badge&logo=php&logoColor=blue) ![Kotlin](https://img.shields.io/badge/yahahaha-%346FF81F.svg?style=for-the-badge&logo=laravel&logoColor=red) ![Kotlin](https://img.shields.io/badge/snapan-%04231256.svg?style=for-the-badge&logo=go&logoColor=gray) ![Kotlin](https://img.shields.io/badge/pplg-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=skyblue)
+![Kotlin](https://img.shields.io/badge/kotlin-%8FF421F6.svg?style=for-the-badge&logo=kotlin&logoColor=black) ![JavaScript](https://img.shields.io/badge/aksara_jawa-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/bahasa_k-%23F901FF.svg?style=for-the-badge&logo=php&logoColor=blue) ![Kotlin](https://img.shields.io/badge/yahahaha-%346FF81F.svg?style=for-the-badge&logo=laravel&logoColor=red) ![Kotlin](https://img.shields.io/badge/snapan-%22233323.svg?style=for-the-badge&logo=go&logoColor=gray) ![Kotlin](https://img.shields.io/badge/pplg-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=skyblue)
 
 
 # 📊 GitHub Stats:
