@@ -1,5 +1,5 @@
 # 👋 Hi, Im Alviano
-##### Currently learning Android & Kotli
+##### Currently learning Android & Kotlin
 
 
 
