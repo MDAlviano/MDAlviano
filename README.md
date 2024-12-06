@@ -1,7 +1,7 @@
 # 👋 Hi, Im Alviano
 ##### Currently learning Android & Kotlin
 
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mdalviano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-detryalviano-maharandi-4222bb312) [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDAlviano)
