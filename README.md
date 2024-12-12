@@ -1,6 +1,4 @@
 # 👋 Hi, Im Alviano
-##### Currently learning Android & Kotlin
-
  
 
 ## 🌐 Socials:
