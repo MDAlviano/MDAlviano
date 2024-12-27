@@ -6,7 +6,7 @@
 
 
 # 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-B125EA.svg?style=for-the-badge&logo=kotlin&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 # 👩‍💻 IDE:
