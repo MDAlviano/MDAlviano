@@ -3,20 +3,21 @@ name: Auto Commit Bot
 on:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   auto-commit:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write 
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.AUTOCOMM }}
+          fetch-depth: 0
 
       - name: Update Log File
         run: |
@@ -24,8 +25,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "MDAlviano"
+          git config --global user.email "mdalviano.21122@gmail.com"
           git add commit_log.txt
           git commit -m "chore: automated daily commit [skip ci]" || echo "Tidak ada perubahan untuk di-commit"
-          git push
+          git push https://x-access-token:${{ secrets.AUTOCOMM }}@github.com/${{ github.repository }}.git
