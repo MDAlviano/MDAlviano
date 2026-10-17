@@ -1,3 +1,3 @@
 ### 👋 Hi, nice to meet you!!
 
-![](https://streak-stats.demolab.com/?user=MDAlviano&theme=cobalt&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=MDAlviano&theme=tokyonight&hide_border=false)<br/>
